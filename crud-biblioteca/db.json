@@ -1,0 +1,37 @@
+{
+  "livros": [
+    {
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "ano": 1899,
+      "preco": 49.9,
+      "genero": "Romance",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "titulo": "O Pequeno Principe",
+      "autor": "Antoine de Saint-Exupery",
+      "ano": 1943,
+      "preco": 29.9,
+      "genero": "Fábula"
+    },
+    {
+      "id": 3,
+      "titulo": "Capitaes da Areia",
+      "autor": "Jorge Amado",
+      "ano": 1937,
+      "preco": 44.9,
+      "genero": "Romance"
+    },
+    {
+      "titulo": "Java",
+      "autor": "Alguém ai",
+      "ano": 2026,
+      "nPaginas": 5962,
+      "preco": 99.99,
+      "genero": "Estudo",
+      "id": 4
+    }
+  ]
+}
